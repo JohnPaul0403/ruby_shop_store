@@ -1,0 +1,24 @@
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+/usr/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with -Werror... yes
+checking for altzone in time.h with -Werror... no
+creating Makefile
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-r60f3b sitelibdir\=./.gem.20251206-12335-r60f3b clean
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-r60f3b sitelibdir\=./.gem.20251206-12335-r60f3b
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-r60f3b sitelibdir\=./.gem.20251206-12335-r60f3b install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20251206-12335-r60f3b
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-r60f3b sitelibdir\=./.gem.20251206-12335-r60f3b clean

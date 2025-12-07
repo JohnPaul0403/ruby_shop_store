@@ -1,0 +1,19 @@
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-w2qrzj sitelibdir\=./.gem.20251206-12335-w2qrzj clean
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-w2qrzj sitelibdir\=./.gem.20251206-12335-w2qrzj
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-w2qrzj sitelibdir\=./.gem.20251206-12335-w2qrzj install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20251206-12335-w2qrzj/debug
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-w2qrzj sitelibdir\=./.gem.20251206-12335-w2qrzj clean

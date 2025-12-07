@@ -1,0 +1,18 @@
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-za39ug sitelibdir\=./.gem.20251206-12335-za39ug clean
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-za39ug sitelibdir\=./.gem.20251206-12335-za39ug
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-za39ug sitelibdir\=./.gem.20251206-12335-za39ug install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251206-12335-za39ug/racc
+
+current directory: /home/johnpaul/Documents/ruby_projects/first_rails/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251206-12335-za39ug sitelibdir\=./.gem.20251206-12335-za39ug clean
