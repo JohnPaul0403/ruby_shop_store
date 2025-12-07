@@ -4,8 +4,6 @@
 <%= link_to "Login", new_session_path unless authenticated? %>
 
 <h2>List of our products</h2>
-<h2><%= t "hello" %></h2>
-
 <div id="products">
   <% @products.each do |item| %>
     <div>
